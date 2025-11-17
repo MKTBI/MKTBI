@@ -1,21 +1,3 @@
-# 💫 About Me:
-💼<b>I'm currently working on:</b><br>
-Enhancing <b>asset management</b> and <b>IT systems</b> at <b>UNHCR</b>, focusing on <b>automation</b>, <b>data accuracy</b>, and <b>process efficiency</b> to improve operations and decision-making.<br><br>
-
-🤝<b>I'm looking to collaborate on:</b><br>
-Projects involving <b>data analytics</b>, <b>process optimization</b>, or <b>automation</b> using <b>Python</b> and <b>Power BI</b> — especially those that create meaningful impact in <b>humanitarian</b> or <b>organizational</b> contexts.<br><br>
-
-🧠<b>I'm looking to grow my expertise in:</b><br>
-<b>Cloud-based data integration</b>, <b>advanced visualization techniques</b>, and <b>scalable database solutions</b> that strengthen data-driven decision systems.<br><br>
-
-📚<b>I'm currently learning:</b><br>
-<b>Advanced data analytics</b>, <b>Power Automate</b>, and <b>machine learning</b> applications for <b>asset and logistics optimization</b>.<br><br>
-
-💬<b>Ask me about:</b><br>
-<b>Data management</b>, <b>Python scripting</b>, <b>workflow automation</b>, or how to bridge the gap between <b>IT</b> and <b>operations</b> in large organizations.<br><br>
-
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Persipos) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danial-maktabi-79aab118a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Maktabidanial@gmail.com)
 
