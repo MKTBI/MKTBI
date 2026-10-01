@@ -10,18 +10,6 @@ I build things that bridge hardware and data — embedded systems, PCB designs, 
 
 My background spans mechatronics engineering (BSc, University of Debrecen), data analytics (MSc, University of Buckingham), and 3+ years building production tools in a live UN operational environment.
 
----
-
-## Active projects
-
-| Project | Stack | Status |
-|---|---|---|
-| [MCP6L94T Comparator PCB](https://github.com/MKTBI/mcp6l94t-comparator-pcb) | KiCad · analog design · Gerbers | ✅ Complete |
-| [Smartwatch Gesture Classification](https://github.com/MKTBI/smartwatch-gesture-classification) | Python · scikit-learn · Random Forest · SVM | ✅ Complete |
-| Room Climate Monitor | Arduino · DHT22 · Plotly Dash | 🔧 In progress |
-
----
-
 ## Skills
 
 ### Languages
